@@ -1,0 +1,6 @@
+.tinder-container{
+    display: grid;
+    width: max-content;
+    margin: auto;
+    overflow: hidden;
+    }

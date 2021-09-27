@@ -1,0 +1,7 @@
+.tinder-card {
+    grid-area: 1 / 1;
+}
+
+.tinder-card img, .tinder-card {
+    user-select: none;
+}
